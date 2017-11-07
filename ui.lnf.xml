@@ -1,0 +1,9 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="FONT_SCALE" value="1.25" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
+</application>

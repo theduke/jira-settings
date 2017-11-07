@@ -1,0 +1,2056 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/BaseLaravelModelRepo.php" timestamp="1509908473993">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/accounting.php" timestamp="1509567701452">
+        <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_heartbeat/files/docker-compose.yml.j2" timestamp="1507415377058">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/docker-deploy-image/Dockerfile" timestamp="1507454217319">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/storage/logs/laravel.log" timestamp="1509915247729">
+        <mark key="'" line="106" column="18368" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/models/Company.php" timestamp="1509562736432">
+        <mark key="'" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/symfony/debug/ExceptionHandler.php" timestamp="1509543359057">
+        <mark key="'" line="235" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Export/Export.php" timestamp="1509558637155">
+        <mark key="'" line="399" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/src/error.rs" timestamp="1504457555643">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/public/.htaccess" timestamp="1509274432950">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/logmesh/data/test.json" timestamp="1505545578208">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="67" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/Intl/Exceptions/IntlException.php" timestamp="1507887669270">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Model/Temporary/ReportDiscountCollection.php" timestamp="1509914780145">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/utils/forms/SelectBox.tsx" timestamp="1504304223158">
+        <mark key="[" line="62" column="10" />
+        <mark key="]" line="62" column="15" />
+        <mark key="^" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/docker/influxdb/tasks/main.yml" timestamp="1509126430620">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823210958_create_tags_tables/up.sql" timestamp="1503522854592">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/logmesh/README.md" timestamp="1505549685274">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="48" column="46" />
+        <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/artisan" timestamp="1506174565208">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_nexus/files/docker-compose.yml.j2" timestamp="1508063571372">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/migrations_jira_sync/20170829095104_accounts_add_email_api_token_column/down.sql" timestamp="1506874623458">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/core/.env" timestamp="1505332411352">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/docker/bin/build-image" timestamp="1507483484876">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/src/server/api/types.rs" timestamp="1504458734955">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/DatabaseModel.php" timestamp="1509561676743">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/app/Console/Kernel.php" timestamp="1506183624379">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Model/User.php" timestamp="1509928435343">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
+      </file>
+      <file name="$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_5.php" timestamp="1509554033613">
+        <mark key="'" line="1121" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/github.com/theduke/ihub/db/node_link.go" timestamp="1503385481085">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/migrations/20171008114003_create_release_info_table/down.sql" timestamp="1507462879608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/ansible/bin/init-env" timestamp="1507405971563">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Migration/LanguageKey/LanguageKeyMigration.php" timestamp="1509904393668">
+        <mark key="[" line="85" column="69" />
+        <mark key="]" line="85" column="69" />
+        <mark key="^" line="85" column="69" />
+        <mark key="." line="85" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" timestamp="1510015704649">
+        <mark key="a" line="117" column="18" />
+        <mark key="'" line="158" column="25" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="27" />
+        <mark key="^" line="50" column="27" />
+        <mark key="." line="50" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/app/Application.php" timestamp="1506198701272">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/plays/devhub.yml" timestamp="1507416064155">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/docker/cli" timestamp="1506168442575">
+        <mark key="[" line="13" column="112" />
+        <mark key="]" line="13" column="112" />
+        <mark key="." line="13" column="112" />
+        <mark key="^" line="13" column="147" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/resources/views/errors/404.blade.php" timestamp="1509901663507">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/app.rs" timestamp="1510001608215">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/console" timestamp="1509623997674">
+        <mark key="[" line="19" column="62" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/devhub/app.go" timestamp="1502788646164">
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="26" />
+        <mark key="^" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/bin/deploy/update-cache-hash" timestamp="1508076588137">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/models/VatAccountingCode.php" timestamp="1509915912108">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/app/Console/Commands/Build/BuildInitializeCommand.php" timestamp="1509935071009">
+        <mark key="[" line="140" column="20" />
+        <mark key="]" line="140" column="20" />
+        <mark key="." line="140" column="28" />
+        <mark key="^" line="120" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/juniper/juniper/juniper/Cargo.toml" timestamp="1507893716117">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/tests/Print/PrintTestClass.php" timestamp="1509609661253">
+        <mark key="[" line="190" column="75" />
+        <mark key="]" line="191" column="21" />
+        <mark key="^" line="191" column="21" />
+        <mark key="." line="191" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/settings/export.accountingCodes.php" timestamp="1509564756464">
+        <mark key="'" line="63" column="128" />
+      </file>
+      <file name="$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1509912016436">
+        <mark key="'" line="309" column="9" />
+      </file>
+      <file name="/tmp/my_project_name/app/AppKernel.php" timestamp="1506201485328">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/core/r2o/Products/Repo.php" timestamp="1505334477175">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php" timestamp="1509538747021">
+        <mark key="'" line="41" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/config/database.php" timestamp="1509038861867">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="14" />
+        <mark key="^" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/src/db/nodes_links.rs" timestamp="1504499252840">
+        <mark key="[" line="37" column="92" />
+        <mark key="]" line="38" column="8" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="38" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/docker/composer-install" timestamp="1506165755276">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/bin/run-play" timestamp="1507629641600">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Intl/LanguageKeyRepoTest.php" timestamp="1509904342784">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/atlassian_kit/build.rs" timestamp="1505201395977">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Model/VatAccountingCode.php" timestamp="1509914764666">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/juniper/juniper/.gitignore" timestamp="1503978881345">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/models/User.php" timestamp="1509561921177">
+        <mark key="'" line="33" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/docs/development/Jetbrains/AutoFormatting.md" timestamp="1509910230689">
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="5" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="48" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/extensions/filter_plugins/password_hash_map.py" timestamp="1507459061418">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/src/gitlab_jira_sync/runner.rs" timestamp="1510000754828">
+        <mark key="[" line="247" column="14" />
+        <mark key="]" line="247" column="23" />
+        <mark key="." line="284" column="44" />
+        <mark key="^" line="247" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Console/Commands/DbDumpYamlSchemaCommand.php" timestamp="1506247720369">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/infrastructure/roles/devhub_nexus/files/docker-compose.yml.j2" timestamp="1505216059348">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Console/Commands/LintCommand.php" timestamp="1506247373167">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/.gitlab-ci.yml" timestamp="1507481215665">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/migrations/20170921071129_create_reddit_posts_table/down.sql" timestamp="1505977901312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/App.php" timestamp="1507997938248">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/main.rs" timestamp="1510007454800">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/symfony/http-foundation/Request.php" timestamp="1509544177540">
+        <mark key="'" line="1776" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/App/Config/Mail/Smtp.php" timestamp="1508330763912">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/productbrowser/ProductSwiper.tsx" timestamp="1504036514252">
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="62" column="31" />
+        <mark key="^" line="62" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/juniper/juniper_iron/README.md" timestamp="1503114984363">
+        <mark key="[" line="14" column="126" />
+        <mark key="]" line="14" column="126" />
+        <mark key="." line="14" column="126" />
+        <mark key="^" line="14" column="126" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/resources/views/errors/layout.blade.php" timestamp="1509907672020">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/src/error.rs" timestamp="1507464403472">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Application.php" timestamp="1506198106671">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/bin/vault-pw-from-env" timestamp="1507409153577">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_bitwarden/tasks/main.yml" timestamp="1507417496776">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/settings/openCashDrawer.ts" timestamp="1506685202737">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_traefik/files/docker-compose.yml.j2" timestamp="1507418468759">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="68" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/docker/bin/shell" timestamp="1506294322671">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/juniper/juniper/juniper/src/integrations/mod.rs" timestamp="1505164414890">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/tests/BasicTest.php" timestamp="1509955020895">
+        <mark key="'" line="45" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/core/bin/composer-install" timestamp="1506162687661">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823211212_create_nodes_tables/down.sql" timestamp="1503523071818">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/.gitlab-ci.yml" timestamp="1509935022260">
+        <mark key="'" line="49" column="29" />
+        <mark key="[" line="43" column="102" />
+        <mark key="]" line="43" column="101" />
+        <mark key="." line="43" column="101" />
+        <mark key="^" line="43" column="101" />
+      </file>
+      <file name="$USER_HOME$/dev/speedyjira/src/components/HelloWorld.vue" timestamp="1509636419752">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/devhub/devhub/main.go" timestamp="1502791499191">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/config/schema/User.dcm.yml" timestamp="1506293990057">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/LanguageKeyMigration.php" timestamp="1509902051138">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/index.php" timestamp="1509021433238">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/login.ts" timestamp="1506682952168">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/migrations/20170923021759_create_cratesio_tables/down.sql" timestamp="1506133349934">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/sys/updateCacheHash.php" timestamp="1509045167362">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/admin/settings/tabs/PaydeskTab/component.tsx" timestamp="1504305040545">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="70" column="3" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/commitguard/bin/create-readme.sh" timestamp="1505577497092">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/docker/run" timestamp="1506170025788">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Console/Commands/LintFixCommand.php" timestamp="1506247401109">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/docker/shell" timestamp="1506202763893">
+        <mark key="[" line="23" column="109" />
+        <mark key="]" line="23" column="111" />
+        <mark key="." line="23" column="111" />
+        <mark key="^" line="23" column="111" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/db/products.go" timestamp="1506244700016">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823211212_create_nodes_tables/up.sql" timestamp="1503523574970">
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="27" column="62" />
+        <mark key="^" line="26" column="64" />
+        <mark key="." line="27" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/plays/devhub-passbolt.yml" timestamp="1507423348106">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/store/products/manager/sagas.ts" timestamp="1506746715552">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/hub/gitlab_api/src/error.rs" timestamp="1503120168060">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/symfony/debug/Exception/FlattenException.php" timestamp="1509543290796">
+        <mark key="'" line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/python/ihub/requirements.txt" timestamp="1506362248064">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1508088038280">
+        <mark key="[" line="4" column="71" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Model/Currency.php" timestamp="1509928952094">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/atlassian_kit/src/error.rs" timestamp="1505173860002">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/Console/Commands/Db/RebuildDbCommand.php" timestamp="1508022565449">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/ansible/host_vars/devhub/devhub.yml" timestamp="1507406100318">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/nexus/Cargo.toml" timestamp="1509132483192">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
+      <file name="/tmp/my_project_name/app/config/config.platform.yml" timestamp="1506201301980">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/app/config.rs" timestamp="1510001652008">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/Console/Commands/Db/SeedDbCommand.php" timestamp="1507997450109">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/cashpoint/productbrowserpane/swiper/utils/productgroup/NestedProductGroup/container.tsx" timestamp="1506687871938">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/App/Config.php" timestamp="1508330194446">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Modules/Intl/IntlRepo.php" timestamp="1509886189660">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Util/Codegen/Schemas/Mysql/Schema.php" timestamp="1506268056764">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/services/jira/mod.rs" timestamp="1510005188177">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Helpers/Text.php" timestamp="1509554822106">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/admin/printers/modals/AddPrinter/component.tsx" timestamp="1504305764918">
+        <mark key="[" line="244" column="1" />
+        <mark key="]" line="244" column="1" />
+        <mark key="." line="244" column="1" />
+        <mark key="^" line="244" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/docker/r2o-lamp/setup/install-php-71.sh" timestamp="1509037153365">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="10" column="65" />
+        <mark key="." line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/repos/products/commands.go" timestamp="1506240236870">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/app/Console/Commands/Check/LintFixCommand.php" timestamp="1506183257121">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/store/products/manager/types.ts" timestamp="1506746759682">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/logmesh/LICENSE" timestamp="1505536714446">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/docker/develop/docker-compose.json" timestamp="1507909448046">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/logmesh/src/main.rs" timestamp="1505545174392">
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="54" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="31" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509928056525">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Base/DatabaseModel.php" timestamp="1509914327357">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="18" column="75" />
+        <mark key="^" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/docker/bin/launch" timestamp="1506246273887">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Util/Schemas/Mysql/Column.php" timestamp="1506265311978">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="90" column="6" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Model/ProductGroup.php" timestamp="1509914987111">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="127" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/Pos.tsx" timestamp="1504304807874">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="56" />
+        <mark key="^" line="28" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/app/App.php" timestamp="1509931581680">
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="57" />
+        <mark key="." line="56" column="57" />
+        <mark key="^" line="56" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/Console/Commands/Db/DumpDbCommand.php" timestamp="1508052139531">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/bills/index.ts" timestamp="1506685932723">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/mysql_parser/src/parser/stmt/drop_logfile_group.rs" timestamp="1504936608374">
+        <mark key="[" line="37" column="71" />
+        <mark key="]" line="37" column="72" />
+        <mark key="." line="37" column="72" />
+        <mark key="^" line="37" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/App/Config/DbConfig.php" timestamp="1508333355885">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/docker/docker-compose.yml" timestamp="1507484698972">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="22" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/app/Console/NoBootstrapKernel.php" timestamp="1509551288836">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/admin/printers/Printers/component.tsx" timestamp="1504303687114">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/config/staging.js" timestamp="1504032453569">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/src/error.rs" timestamp="1510010389114">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_elasticsearch/files/docker-compose.yml.j2" timestamp="1507458480095">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="101" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/settings/features.php" timestamp="1509925934164">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/Intl/InvalidTranslationParamsException.php" timestamp="1507760211312">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/sys/module/1/insert/insertDocument.php" timestamp="1509925052722">
+        <mark key="'" line="431" column="121" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/database/dumps/.gitignore" timestamp="1509008519664">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/migrations_jira_sync/20170829095104_accounts_add_email_api_token_column/up.sql" timestamp="1506874627842">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/Cargo.toml" timestamp="1510086089657">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="69" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="7" column="69" />
+        <mark key="." line="7" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/r2o/Products/Repo.php" timestamp="1506170225037">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/mysql_parser/src/parser/stmt/rename_table.rs" timestamp="1504859803956">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="61" column="78" />
+        <mark key="." line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/print/.htaccess" timestamp="1509271889354">
+        <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Model/Coupon.php" timestamp="1509926665587">
+        <mark key="'" line="88" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/dashboard/inc/switch2LiveMode.php" timestamp="1509929044339">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/sessionsCloseShitf.ts" timestamp="1506683891656">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/models/Bill.php" timestamp="1509922359866">
+        <mark key="[" line="690" column="32" />
+        <mark key="]" line="690" column="44" />
+        <mark key="." line="690" column="44" />
+        <mark key="^" line="690" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823210107_create_user_tables/up.sql" timestamp="1503523607696">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/ansible/bin/vault-pw-from-env.sh" timestamp="1507405045982">
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/migrations/20170923021759_create_cratesio_tables/up.sql" timestamp="1506136046137">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/models/Stock.php" timestamp="1509922028179">
+        <mark key="'" line="310" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/devhub/services/elasticsearch/launch.sh" timestamp="1507401182177">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/resources/views/error/500.blade.php" timestamp="1509543527826">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/aws/aws_db_snapshotter/files/Dockerfile" timestamp="1507602333535">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/BaseRepo.php" timestamp="1509908275245">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/.gitlab-ci.yml" timestamp="1507303171065">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/.npmrc" timestamp="1508345781288">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/r2o/products/Repo.php" timestamp="1506170238683">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/logmesh/Cargo.toml" timestamp="1505549932034">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/ansible/ansible.cfg" timestamp="1507406727512">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/src/apis/mod.rs" timestamp="1505443632437">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/products/index.ts" timestamp="1506686027497">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/logmesh/.gitignore" timestamp="1505536976092">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/src/gitlab_jira_sync/error.rs" timestamp="1505443546609">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1509904111668">
+        <mark key="'" line="2143" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Console/Commands/DbGenerateYamlSchema.php" timestamp="1506247823615">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/tests/Intl/testDbProvider.php" timestamp="1507878568042">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/orders/index.ts" timestamp="1506688418226">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/admin/settings/modals/SendJournal/actions.ts" timestamp="1506688131182">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/app/mod.rs" timestamp="1510005703178">
+        <mark key="'" line="11" column="39" />
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/DatabaseModel.php" timestamp="1509928864804">
+        <mark key="'" line="1089" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="30" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/app/config.go" timestamp="1506209630900">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/failure/src/lib.rs" timestamp="1510026277079">
+        <mark key="a" line="69" column="52" />
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="52" />
+        <mark key="^" line="69" column="52" />
+        <mark key="." line="69" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/tests/TestCase.php" timestamp="1506172170176">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823212737_create_nodes_links_tables/up.sql" timestamp="1504495812463">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/src/gitlab_jira_sync/mod.rs" timestamp="1506882730915">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/src/types/mod.rs" timestamp="1510008702002">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/aws/aws_db_snapshotter/tasks/main.yml" timestamp="1507637473682">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="74" />
+        <mark key="." line="50" column="74" />
+        <mark key="^" line="50" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub/tasks/main.yml" timestamp="1507452772217">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/docker/images/shell/Dockerfile" timestamp="1508021327234">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="75" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/customers/index.ts" timestamp="1506685952000">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/frontend/info.php" timestamp="1507915317031">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" timestamp="1509929073883">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="51" />
+        <mark key="." line="33" column="51" />
+        <mark key="^" line="33" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_vault_ui/files/docker-compose.yml.j2" timestamp="1507575413883">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/commitguard/LICENSE" timestamp="1505576993933">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Interfaces/ApiInterface.php" timestamp="1509913445769">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/tests/ExampleTest.php" timestamp="1506171376861">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/util/tabbers/LocalStateTabber.tsx" timestamp="1504033129980">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/commands.go" timestamp="1505339469086">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/github.com/theduke/ihub/ihub/main.go" timestamp="1503384328812">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/utils/tabbers/RoutedSwipeTabber.tsx" timestamp="1504304652224">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/services/mod.rs" timestamp="1510005520362">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/docker/images/php-cli/Dockerfile" timestamp="1507923309841">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/index.php" timestamp="1505329970072">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/admin/settings/modals/QuickAccountChange/actions.ts" timestamp="1506688090391">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/database/seeds/DatabaseSeeder.php" timestamp="1506173090568">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/index.ts" timestamp="1506748006666">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/python/ihub/setup.py" timestamp="1506361493830">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/aws/aws_db_snapshotter/files/requirements.txt" timestamp="1507600495683">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Cache/SimpleLRUCache.php" timestamp="1509911612306">
+        <mark key="'" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/hub/Cargo.toml" timestamp="1503076899678">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/migrations/20171008113653_create_jira_actions_table/up.sql" timestamp="1507462623904">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/laravel/framework/src/Illuminate/Translation/TranslationServiceProvider.php" timestamp="1509903812395">
+        <mark key="'" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/db/Db.tsx" timestamp="1506681950960">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Model/AccountingCostCenter.php" timestamp="1509915068674">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/helpers/bills.ts" timestamp="1504304731436">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="86" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/commitguard/README.md" timestamp="1505578402013">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/migrations/20171008113653_create_jira_actions_table/down.sql" timestamp="1507462727080">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/app/README.md" timestamp="1506245046397">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/autoload.php" timestamp="1509929644436">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/error.rs" timestamp="1510001303239">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/composer-install" timestamp="1506162801614">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/src/types.rs" timestamp="1510018503915">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/infrastructure/roles/devhub_nexus/tasks/main.yml" timestamp="1505216185036">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_goldfish/tasks/main.yml" timestamp="1507573144778">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/github.com/theduke/ihub/server/nodes.go" timestamp="1503519861450">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823210958_create_tags_tables/down.sql" timestamp="1503522719353">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/tests/Login/FrontendLoginTest.php" timestamp="1509955007049">
+        <mark key="'" line="707" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/extensions/requirements.txt" timestamp="1507606854549">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/config/base.js" timestamp="1506856472664">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="42" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/README.md" timestamp="1506167943516">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="65" />
+        <mark key="^" line="26" column="65" />
+        <mark key="." line="26" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" timestamp="1509933985075">
+        <mark key="'" line="40" column="53" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="53" />
+        <mark key="." line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/devhub/jira.go" timestamp="1502777728566">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/backends/api/parsers.ts" timestamp="1506747987272">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/Cache/SimpleLRUCacheItem.php" timestamp="1509911619443">
+        <mark key="'" line="17" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/index.ts" timestamp="1506750062484">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Db/BaseLaravelRepo.php" timestamp="1509908310487">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/migrations/20171008114447_add_users_table/down.sql" timestamp="1507463121762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/devhub/services/elasticsearch/docker-compose.yml" timestamp="1507401633145">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/.env" timestamp="1506000889291">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_goldfish/files/docker-compose.yml.j2" timestamp="1507573166962">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/.gitlab-ci.yaml" timestamp="1507298446910">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/docs/development/Jetbrains/FileWatcher.md" timestamp="1509909563714">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" timestamp="1510018808679">
+        <mark key="a" line="38" column="16" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_bitwarden/files/global.env" timestamp="1507419331046">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="72" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/src/clients/util/mod.rs" timestamp="1506009046514">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/bin/setup" timestamp="1507629665735">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1509536831481">
+        <mark key="'" line="233" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/tslint.json" timestamp="1504305004301">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/ihub/ihub_backend/migrations/20170823212737_create_nodes_links_tables/down.sql" timestamp="1504493034869">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/commitguard/Cargo.toml" timestamp="1505578004029">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/core/main.go" timestamp="1506241349088">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_bitwarden/files/mysql.env" timestamp="1507419313648">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/roles/devhub/devhub_gitlab/files/runner/Dockerfile" timestamp="1507583827076">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Model/Temporary/ReportDiscountCollection.php" timestamp="1509916129062">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/docker-rust-ci/bin/build-nightly.sh" timestamp="1507287803642">
+        <mark key="[" line="5" column="73" />
+        <mark key="]" line="5" column="82" />
+        <mark key="^" line="5" column="82" />
+        <mark key="." line="5" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/bin/dump-sqlite-db.sh" timestamp="1507472914688">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/Core/Console/Commands/AnalyzeCommand.php" timestamp="1506247353232">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/plays/ansible.cfg" timestamp="1509126282955">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+        <mark key="^" line="2" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/app/Providers/R2ServiceProvider.php" timestamp="1509887546173">
+        <mark key="[" line="17" column="82" />
+        <mark key="]" line="18" column="65" />
+        <mark key="^" line="18" column="65" />
+        <mark key="." line="18" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/TestCase.php" timestamp="1509905544436">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/nexus/migrations/20171008113439_create_accounts_table/down.sql" timestamp="1507462558766">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/productbrowser/productgroup/ProductGroup.tsx" timestamp="1504036448521">
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="43" />
+        <mark key="^" line="40" column="43" />
+        <mark key="." line="40" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/devhub/services/backup/launch.sh" timestamp="1507405937551">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/readme.md" timestamp="1506167587396">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/nexus/docker/bin/build-image" timestamp="1507301380183">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="62" />
+        <mark key="^" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/atlassian_kit/bin/extract-schema.js" timestamp="1505201207332">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/ProxyBackend.ts" timestamp="1506741065431">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="79" column="6" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" timestamp="1510018480412">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/docker/composer-update" timestamp="1506163601083">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/plays/devhub-backup.yml" timestamp="1507412623025">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" timestamp="1510008574711">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/_bootstrap/functions.global.php" timestamp="1509547263524">
+        <mark key="'" line="296" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/README.md" timestamp="1507461084344">
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="54" column="73" />
+        <mark key="." line="54" column="73" />
+        <mark key="^" line="54" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/_bootstrap/class.ready2order.php" timestamp="1509928920765">
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="834" column="0" />
+        <mark key="]" line="835" column="28" />
+        <mark key="." line="835" column="28" />
+        <mark key="^" line="835" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/ruleset.xml" timestamp="1506174276327">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="20" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/dashboard.php" timestamp="1509929233421">
+        <mark key="'" line="52" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/atlassian_api/Cargo.toml" timestamp="1510009747609">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/resources/assets/Gruntfile.js" timestamp="1509907760864">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="136" column="50" />
+        <mark key="." line="138" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/bin/composer-update" timestamp="1506162924749">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureServiceTest.php" timestamp="1509933999078">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="60" />
+        <mark key="." line="40" column="60" />
+        <mark key="^" line="40" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/GO/src/gitlab.r2o.io/r2o/core/db/server/server.go" timestamp="1505377760736">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/sessions/index.ts" timestamp="1506686072542">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/cmd" timestamp="1506197244836">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/tests/Intl/BaseIntlTest.php" timestamp="1507886002445">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/Eloquent/ready2order/models/Accounting.php" timestamp="1509558616761">
+        <mark key="'" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/sessions/adminLogin.ts" timestamp="1506684942923">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/devhub/services/backup/docker-compose.yml" timestamp="1507393686024">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Dashboard/Dashboard.php" timestamp="1509929208197">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="121" column="21" />
+        <mark key="]" line="121" column="21" />
+        <mark key="." line="121" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/src/R2/Util/Text.php" timestamp="1509912139497">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/app/Providers/AppServiceProvider.php" timestamp="1509914424219">
+        <mark key="[" line="16" column="53" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/ansible/plays/ansible.cfg" timestamp="1507409101880">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/juniper/juniper/juniper/src/schema/meta.rs" timestamp="1503973512903">
+        <mark key="[" line="347" column="79" />
+        <mark key="]" line="347" column="90" />
+        <mark key="." line="347" column="90" />
+        <mark key="^" line="347" column="90" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/application/app/Console/Commands/Cache/UpdateCacheHashCommand.php" timestamp="1509045078145">
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="39" column="56" />
+        <mark key="." line="39" column="56" />
+        <mark key="^" line="39" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/public/index.php" timestamp="1506197220801">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/Console/Commands/Db/CreateSchemaCommand.php" timestamp="1508010549552">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/.gitignore" timestamp="1506126198452">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/admin/settings/tabs/AppTab/component.tsx" timestamp="1504304952355">
+        <mark key="[" line="51" column="58" />
+        <mark key="]" line="52" column="9" />
+        <mark key="^" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/views/util/tabbers/components/Pane.tsx" timestamp="1504034512699">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/legacy/resources/views/backend/settings/main.blade.php" timestamp="1509610305038">
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+        <mark key="^" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/core/src/app/Console/Commands/Check/LintCommand.php" timestamp="1506183263358">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/migrations/20170921150117_create_discourse_topics_table/down.sql" timestamp="1506006091325">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/discover/migrations/20170921071129_create_reddit_posts_table/up.sql" timestamp="1505978029738">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/r2o/live-system/src/App/Config/Db/MysqlConfig.php" timestamp="1508333701533">
+        <mark key="[" line="26" column="81" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/mysql_parser/Cargo.toml" timestamp="1504553537415">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/rust/atlassian_kit/src/jira/mod.rs" timestamp="1505198686900">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/tooling/infrastructure/plays/aws-db-snapshotter.yml" timestamp="1507604416240">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/r2o/pos/src/backend/types/mutations/sessions/login.ts" timestamp="1506684599811">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="41" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/_bootstrap/class.ready2order.php" />
+      <jump line="1089" column="0" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Database/DatabaseModel.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" />
+      <jump line="3" column="35" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" />
+      <jump line="5" column="49" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" />
+      <jump line="14" column="26" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" />
+      <jump line="15" column="15" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" />
+      <jump line="24" column="34" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/licenseExpired.php" />
+      <jump line="12" column="4" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/src/Dashboard/Dashboard.php" />
+      <jump line="51" column="44" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/apps/backend/views/dashboard.php" />
+      <jump line="21" column="2" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="12" column="53" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="39" column="42" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="30" column="5" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="35" column="68" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="58" column="27" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="78" column="14" filename="$USER_HOME$/dev/r2o/r2o/live-system/.gitlab-ci.yml" />
+      <jump line="35" column="9" filename="$USER_HOME$/dev/r2o/r2o/live-system/.gitlab-ci.yml" />
+      <jump line="49" column="29" filename="$USER_HOME$/dev/r2o/r2o/live-system/.gitlab-ci.yml" />
+      <jump line="40" column="53" filename="$USER_HOME$/dev/r2o/r2o/live-system/application/tests/Integration/R2/Modules/Bill/BillSignature/BillSignatureRepositoryTest.php" />
+      <jump line="707" column="20" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/tests/Login/FrontendLoginTest.php" />
+      <jump line="45" column="15" filename="$USER_HOME$/dev/r2o/r2o/live-system/legacy/tests/BasicTest.php" />
+      <jump line="3" column="22" filename="$USER_HOME$/dev/projects/termify/src/main.rs" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/projects/termify/src/main.rs" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/projects/termify/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/termify/src/services/mod.rs" />
+      <jump line="13" column="11" filename="$USER_HOME$/dev/projects/termify/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/termify/src/services/jira/mod.rs" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/projects/termify/Cargo.toml" />
+      <jump line="14" column="7" filename="$USER_HOME$/dev/projects/termify/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/termify/src/app/config.rs" />
+      <jump line="3" column="32" filename="$USER_HOME$/dev/projects/termify/src/services/mod.rs" />
+      <jump line="4" column="22" filename="$USER_HOME$/dev/projects/termify/src/services/mod.rs" />
+      <jump line="5" column="24" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/projects/termify/src/services/mod.rs" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="23" column="18" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="10" column="31" filename="$USER_HOME$/dev/projects/termify/src/services/mod.rs" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/projects/termify/src/services/jira/mod.rs" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/projects/termify/src/services/jira/mod.rs" />
+      <jump line="18" column="24" filename="$USER_HOME$/dev/projects/termify/src/services/jira/mod.rs" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="4" column="19" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="11" column="39" filename="$USER_HOME$/dev/projects/termify/src/app/mod.rs" />
+      <jump line="10" column="30" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="9" column="45" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="11" column="30" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="31" column="42" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="12" column="22" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="49" column="28" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="6" column="21" filename="$USER_HOME$/dev/projects/termify/src/jira/mod.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/error.rs" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="24" column="12" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="22" column="51" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="0" column="31" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="2" column="14" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="42" column="16" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/types.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/types.rs" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="35" column="3" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="13" column="33" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="44" column="17" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="45" column="41" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="14" column="21" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="56" column="28" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="34" column="31" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/types.rs" />
+      <jump line="36" column="68" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="87" column="18" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="108" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="102" column="29" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="110" column="4" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="103" column="25" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="90" column="26" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="45" column="27" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="137" column="25" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/types.rs" />
+      <jump line="36" column="50" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="34" column="9" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/software/mod.rs" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="126" column="0" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="38" column="24" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="73" column="34" filename="$USER_HOME$/dev/projects/atlassian_api/src/lib.rs" />
+      <jump line="69" column="52" filename="$USER_HOME$/dev/rust/failure/src/lib.rs" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/rust/failure/src/lib.rs" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>res.by_ref()</text>
+      </register>
+      <register name="/" type="4">
+        <text>use std</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlcHJpbnRsbiEoImFsbCIpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ewogICAgICAgICAgICBsZXQgbXV0IGJ1ZiA9IFN0cmluZzo6bmV3KCk7CiAgICAgICAgICAgIGxldCByZWZlcmVuY2UgPSByZXMuYnlfcmVmKCk7CiAgICAgICAgICAgIHJlZmVyZW5jZS5yZWFkX3RvX3N0cmluZygmbXV0IGJ1ZikudW53cmFwKCk7CiAgICAgICAgICAgIGVwcmludGxuISgiZGF0YToge30iLCBidWYpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKiAvCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGJ1ZiA9IFN0cmluZzo6bmV3KCk7CiAgICAgICAgcmVzLmJ5X3JlZigpLnJlYWRfdG9fc3RyaW5nKCZtdXQgYnVmKS51bndyYXAoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlcHJpbnRsbiEoIns6Iz99IiwgcmVxKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlcHJpbnRsbiEoImRhdGE6IHt9IiwgYnVmKTsK</text>
+      </register>
+      <register name="x" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlcHJpbnRsbiEoInRvIHVybCIpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>use std</last-search>
+      <last-offset />
+      <last-pattern>use std</last-pattern>
+      <last-replace>project</last-replace>
+      <last-substitute>username</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>404</entry>
+        <entry>strstr</entry>
+        <entry>function strstr</entry>
+        <entry>title='ready2order</entry>
+        <entry>E-ready</entry>
+        <entry>Coupon</entry>
+        <entry>use</entry>
+        <entry>dd</entry>
+        <entry>dd(</entry>
+        <entry>LanguageKey</entry>
+        <entry>sleep</entry>
+        <entry>hasOne</entry>
+        <entry>belongsTo</entry>
+        <entry>License</entry>
+        <entry>--force</entry>
+        <entry>username</entry>
+        <entry>self</entry>
+        <entry>constraint</entry>
+        <entry>Estimation</entry>
+        <entry>use std</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/$GLOBALS[&quot;cacheHash&quot;]/$cacheHash/g</entry>
+        <entry>%s/\$GLOBALS\[&quot;cacheHash&quot;\]/$cacheHash/g</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>%s/rebuild_db/rebuild/g</entry>
+        <entry>%s/'/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry encoding="base64">JzwsJz5zLy0vXy9n</entry>
+        <entry encoding="base64">JzwsJz5zLzo6LyA9IC8=</entry>
+        <entry>s/3/4/g</entry>
+        <entry encoding="base64">JXMvLCBCb3g8ZXJyb3I+Ly8=</entry>
+        <entry encoding="base64">JXMvLCBCb3g8RXJyb3I+Ly8=</entry>
+        <entry encoding="base64">JzwsJz5zL1N1ZmZpeC9QcmVmaXgvZw==</entry>
+        <entry>%s/hasPrefix/startsWith/g</entry>
+        <entry>%s/hasSuffix/endsWith/g</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry encoding="base64">JzwsJz5zLzQwNC80MDMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Byb2plY3Qv</entry>
+        <entry>e#</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

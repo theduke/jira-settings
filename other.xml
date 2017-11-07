@@ -1,0 +1,13 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.7.1/bin/node">
+      <version-cache version="7.7.1" last-modified="1488414238000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v7.7.1/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="MOVE_CLASS_SEARCH_IN_TEXT_OCCURRENCES" value="true" />
+  </component>
+</application>

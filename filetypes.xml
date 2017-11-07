@@ -1,0 +1,35 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="gitlab-ci-run-play" type="Bash" />
+      <mapping pattern="bas" type="Bash" />
+      <mapping pattern="composer-update" type="Bash" />
+      <mapping pattern="setup" type="Bash" />
+      <mapping pattern="phpstan" type="Bash" />
+      <mapping pattern="cli" type="Bash" />
+      <mapping pattern="launch-shell" type="Bash" />
+      <mapping pattern="lint-fix" type="Bash" />
+      <mapping pattern="run-play" type="Bash" />
+      <mapping pattern="lint" type="Bash" />
+      <mapping pattern="DockerfileConsole" type="Dockerfile" />
+      <mapping pattern="DockerfileShell" type="Dockerfile" />
+      <mapping pattern="DockerfileCLI" type="Dockerfile" />
+      <mapping pattern="DockerfileFPM" type="Dockerfile" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="console" type="PHP" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
+      <mapping pattern="aws-lamp/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="images/php-cli/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="composer-install" type="PLAIN_TEXT" />
+      <mapping pattern="bin/composer-install" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping ext="pest" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping pattern="bin/build-images" type="Python" />
+      <mapping pattern="build-images" type="Python" />
+      <mapping ext="j2" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
