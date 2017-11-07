@@ -3,6 +3,7 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="FONT_SCALE" value="1.25" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
